@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>My Struggle with Celiac Disease</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="wrapper">
+<img src="../images/banner.jpg" width="950" height="150" alt="banner"/>
+</div>
+<ul class="navigation">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">What is Celiac Disease?</a></li>
+  <li><a href="#">My Story</a></li>
+  <li><a href="#">Statistics</a></li>
+  <li><a href="#">Recipes</a></li>
+  <li><a href="#">Resources</a></li>
+</ul>
+<p>
+</p>
+</body>
+</html>

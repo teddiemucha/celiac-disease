@@ -1,0 +1,56 @@
+/* CSS Document */
+body {
+	background: #8CE600;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 16px;
+}
+
+.wrapper {
+	width: 950px;
+	height: 150px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #005A00;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.navigation {
+	padding: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	text-align: center;
+}
+
+.navigation li {
+	display: inline;
+	margin: auto;
+}
+
+.navigation li a:hover {
+	color: #FFFFC8;
+	background-color: #005A00;
+}
+
+.navigation li a {
+	background-color: #FFFFC8;
+	color: #005A00;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	border: 2px solid #005A00;
+	text-decoration: none;
+	margin: auto;
+}
+
+
