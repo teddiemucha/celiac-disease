@@ -1,6 +1,6 @@
 /* CSS Document */
 body {
-	background: #8CE600;
+	background: #008000;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 10px;
@@ -8,6 +8,36 @@ body {
 	padding: 0px;
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size: 16px;
+}
+
+p {
+	line-height: 2em;
+	padding: 0px;
+	margin-bottom: 20px;
+	margin-top: 15px;
+	margin-right: 50px;
+	margin-left: 30px;
+	color: #005A00;
+}
+
+
+ul {
+	line-height: 2em;
+	padding: 0px;
+	margin-bottom: 0px;
+	margin-top: 15px;
+	margin-right: 70px;
+	margin-left: 30px;
+	color: #005A00;
+}	
+
+h1 {
+	color: #005A00;
+}
+
+h2 {
+	color: #005A00;
+	margin-left: 20px;
 }
 
 .wrapper {
@@ -20,37 +50,72 @@ body {
 	margin-bottom: 10px;
 	margin-right: auto;
 	margin-left: auto;
+	text-align: center;
 }
 
 .navigation {
-	padding: 0px;
+	padding: 5px;
 	margin-top: 20px;
 	margin-right: 0px;
 	margin-bottom: 20px;
-	margin-left: 10px;
+	margin-left: 0px;
 	text-align: center;
 }
 
 .navigation li {
 	display: inline;
 	margin: auto;
+	padding: auto;
 }
 
 .navigation li a:hover {
-	color: #FFFFC8;
+	color: #FFFFFF;
 	background-color: #005A00;
 }
 
 .navigation li a {
-	background-color: #FFFFC8;
+	background-color: #FFFFFF;
 	color: #005A00;
 	padding-top: 10px;
-	padding-right: 5px;
+	padding-right: 20px;
 	padding-bottom: 10px;
-	padding-left: 5px;
-	border: 2px solid #005A00;
+	padding-left: 20px;
+	border: 5px solid #005A00;
 	text-decoration: none;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-radius: 15px;
+}
+
+.main {
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	border: 5px solid #005A00;
+	padding: 10px;
+	width: 930px;
+	left: auto;
+	top: auto;
+	right: auto;
+	bottom: auto;
 	margin: auto;
 }
 
+.main table {
+	margin-left: 80px;
+}
 
+ol {
+	line-height: 2em;
+	padding: 0px;
+	margin-bottom: 0px;
+	margin-top: 15px;
+	margin-right: 70px;
+	margin-left: 30px;
+	color: #005A00;
+}	.main p img {
+	margin-right: 10px;
+	margin-left: 40px;
+	border: 2px solid #000;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
