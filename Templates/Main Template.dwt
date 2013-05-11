@@ -17,10 +17,8 @@
 <ul class="navigation">
   <li><a href="../index.html">Home</a></li>
   <li><a href="../what-is-celiac-disease.html">What is Celiac Disease?</a></li>
+  <li><a href="../statistics.html">Statistics</a><a href="../recipes/main-recipe-page.html">Recipes</a></li>
   <li><a href="../my-story.html">My Story</a></li>
-  <li><a href="../statistics.html">Statistics</a></li>
-  <li><a href="../recipes/main-recipe-page.html">Recipes</a></li>
-  <li><a href="../resources.html">Resources</a></li>
 </ul>
 <div class="main"><!-- TemplateBeginEditable name="Main" -->This is my content.<!-- TemplateEndEditable --></div>
 </body>

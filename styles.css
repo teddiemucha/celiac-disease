@@ -3,8 +3,8 @@ body {
 	background: #008000;
 	margin-right: auto;
 	margin-left: auto;
-	margin-bottom: 10px;
-	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px;
 	padding: 0px;
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size: 16px;
@@ -16,7 +16,7 @@ p {
 	margin-bottom: 20px;
 	margin-top: 15px;
 	margin-right: 50px;
-	margin-left: 30px;
+	margin-left: 40px;
 	color: #005A00;
 }
 
@@ -33,17 +33,25 @@ ul {
 
 h1 {
 	color: #005A00;
+	font-family: Hobo Std;
+	margin-left: 15px;
 }
 
 h2 {
 	color: #005A00;
-	margin-left: 20px;
+	margin-left: 30px;
+	font-family: Hobo Std;
+}
+
+h3 {
+	color: #005A00;
+	font-family: Hobo Std;
 }
 
 .wrapper {
 	width: 950px;
 	height: 150px;
-	border-width: 5px;
+	border-width: 8px;
 	border-style: solid;
 	border-color: #005A00;
 	margin-top: 10px;
@@ -56,16 +64,16 @@ h2 {
 .navigation {
 	padding: 5px;
 	margin-top: 20px;
-	margin-right: 0px;
+	margin-right: 10px;
 	margin-bottom: 20px;
-	margin-left: 0px;
+	margin-left: 10px;
 	text-align: center;
+	font-family: Hobo Std;
 }
 
 .navigation li {
 	display: inline;
 	margin: auto;
-	padding: auto;
 }
 
 .navigation li a:hover {
@@ -76,21 +84,22 @@ h2 {
 .navigation li a {
 	background-color: #FFFFFF;
 	color: #005A00;
-	padding-top: 10px;
-	padding-right: 20px;
-	padding-bottom: 10px;
-	padding-left: 20px;
-	border: 5px solid #005A00;
+	padding-top: 12px;
+	padding-right: 30px;
+	padding-bottom: 12px;
+	padding-left: 30px;
+	border: 8px solid #005A00;
 	text-decoration: none;
-	margin-right: 10px;
-	margin-left: 10px;
+	margin-right: 15px;
+	margin-left: 15px;
 	border-radius: 15px;
+	font-size: 18px;
 }
 
 .main {
 	background-color: #FFFFFF;
-	border-radius: 15px;
-	border: 5px solid #005A00;
+	border-radius: 0px;
+	border: 8px solid #005A00;
 	padding: 10px;
 	width: 930px;
 	left: auto;
@@ -101,7 +110,7 @@ h2 {
 }
 
 .main table {
-	margin-left: 80px;
+	margin-left: 52px;
 }
 
 ol {
@@ -112,10 +121,28 @@ ol {
 	margin-right: 70px;
 	margin-left: 30px;
 	color: #005A00;
-}	.main p img {
+}
+
+.main p img {
 	margin-right: 10px;
 	margin-left: 40px;
-	border: 2px solid #000;
+	border: 2px solid #005A00;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+tr td img { 
+	border: 2px solid #005A00;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main img {
+	padding: 0px;
+	border: solid 3px #005A00;
+	margin-top: auto;
+	margin-right: 10px;
+	margin-bottom: auto;
+	margin-left: 10px;
+}
+
